@@ -1,0 +1,8 @@
+/.nova/
+/node_modules/
+/src/
+/tests/
+/index.*
+jest.*
+tsconfig.*
+webpack.*
