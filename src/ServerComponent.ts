@@ -1,5 +1,5 @@
 import { Nullable } from "@battis/typescript-tricks";
-import path from "path";
+import path from "path-browserify";
 import { API } from "@battis/jsx-api";
 import { Component, StatefulComponent } from "@battis/jsx-components";
 
